@@ -5,13 +5,16 @@ nav {
   background: #555;
   color: #999;
   overflow: hidden;
-  padding: 10px 114px;
+  /* padding: 10px 114px; */
   margin: 0px;
   margin-bottom: 30px;
+  padding: 10px 0px;
 }
 
 ul { 
+  width: 960px;
   height: 70px;
+  margin: auto;
 }
 
 
@@ -62,7 +65,6 @@ ul > li > a {
 }
 
 h2 { 
-  /* background: darkgreen; */
   display: inline-block;
   margin-left: 30px;
   font-weight: bold;
